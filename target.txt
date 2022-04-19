@@ -1,0 +1,16 @@
+int a = 0, b = 0, c = 0;
+
+for(int i=0; i < 5; i++)
+{
+ a = i + 5;
+ b = i + 10;
+}
+
+for(int i=0; i < 10; i++)
+ c = i + 5;
+
+
+
+cout<<a;
+cout<<endl;
+cout<<b;
